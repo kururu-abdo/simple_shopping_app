@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "730892652134",
+    "firebase_url": "https://kururu-salse-app.firebaseio.com",
+    "project_id": "kururu-salse-app",
+    "storage_bucket": "kururu-salse-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730892652134:android:7986f535a528edad8da7a7",
+        "android_client_info": {
+          "package_name": "com.example.myredux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730892652134-i0u91eanni1koe33f7ampokog0103jov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myredux",
+            "certificate_hash": "e46db5bf5c50c5ab89e567586a2c599e653df5f7"
+          }
+        },
+        {
+          "client_id": "730892652134-pgfns0vjn2l3u6fr1keaot7mjse47r9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMW4J4FvylmqRsUAO-fkHMbGqHLysWPN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730892652134-pgfns0vjn2l3u6fr1keaot7mjse47r9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
