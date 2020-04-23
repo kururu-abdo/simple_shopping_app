@@ -1,7 +1,6 @@
-# myredux
+# simple_shopping_app
 
-A new Flutter project.
-
+simple shopping app with state_rebuilder
 ## Getting Started
 
 This project is a starting point for a Flutter application.
